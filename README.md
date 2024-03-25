@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigMan-BigMan
+- 👋 Hi, I’m @Cicada-244
 - 👀 I’m interested in Learning and potentially  developing in the furture
 - 🌱 I’m currently learning Java Script 
 - 💞️ I’m looking to collaborate on Learning
